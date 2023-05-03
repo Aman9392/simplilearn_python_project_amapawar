@@ -66,6 +66,6 @@ Security levels:
 
          level 0 - password consists of alphabets or numbers only.
 
-        level 1 - Alphanumeric passwords.
+         level 1 - Alphanumeric passwords.
 
-             level 2 - Alphanumeric passwords with special characters.
+         level 2 - Alphanumeric passwords with special characters.
